@@ -8,7 +8,7 @@ This repository provides the analysis code, processed results, and interactive m
 
 ## Interactive recommendation tool
 
-[Open the interactive recommendation tool](https://erjinzhizifuchuan.github.io/nuclei-segmentation-benchmark/nuclei_recommendation_score_sorted.html)
+[Open the interactive recommendation tool](https://erjinzhizifuchuan.github.com/nuclei-segmentation-benchmark/docs/nuclei_recommendation_score_sorted.html)
 
 The tool provides scenario-specific model recommendations according to imaging profile, segmentation task, downstream endpoint, prompt availability, and deployment priority.
 ## Benchmark datasets
