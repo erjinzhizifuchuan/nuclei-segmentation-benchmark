@@ -2,18 +2,15 @@
 
 This repository provides the original dataset references, model references and an interactive decision-support tool for task-aware nuclear segmentation model selection.
 
-## Interactive model-selection tool
+# Nuclei Segmentation Model Recommendation
 
-The interactive recommendation interface is available here:
+This repository provides the analysis code, processed results, and interactive model recommendation tool associated with our nuclear segmentation benchmark.
 
-[Open the interactive decision-support tool](https://your-username.github.io/nuclei-segmentation-benchmark/decision_matrix_selector.html)
+## Interactive recommendation tool
 
-Replace the URL above with the final public URL of the HTML interface. If the HTML file is stored directly in the repository, it can also be linked using:
+[Open the interactive recommendation tool](https://erjinzhizifuchuan.github.io/nuclei-segmentation-benchmark/nuclei_recommendation_score_sorted.html)
 
-```markdown
-[Open the interactive decision-support tool](docs/decision_matrix_selector.html)
-```
-
+The tool provides scenario-specific model recommendations according to imaging profile, segmentation task, downstream endpoint, prompt availability, and deployment priority.
 ## Benchmark datasets
 
 | Dataset | Original publication |
